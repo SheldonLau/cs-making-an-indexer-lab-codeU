@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="sheldon-VirtualBox" name="com.flatironschool.javacs.IndexTest" skipped="0" tests="1" time="2.661" timestamp="2016-06-12T02:52:46">
+<testsuite errors="0" failures="0" hostname="sheldon-VirtualBox" name="com.flatironschool.javacs.IndexTest" skipped="0" tests="1" time="2.605" timestamp="2016-06-12T02:55:15">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.SESSION_MANAGER" value="local/sheldon-VirtualBox:@/tmp/.ICE-unix/1603,unix/sheldon-VirtualBox:/tmp/.ICE-unix/1603" />
@@ -10,7 +10,7 @@
     <property name="env.GEM_HOME" value="/home/sheldon/.rvm/gems/ruby-2.3.0" />
     <property name="os.name" value="Linux" />
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes" />
-    <property name="env.PWD" value="/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06" />
+    <property name="env.PWD" value="/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU" />
     <property name="env.XDG_SESSION_COOKIE" value="37cbb2b2a55d427957dc9f3556f428ff-1465666183.708541-952302746" />
     <property name="sun.desktop" value="gnome" />
     <property name="env.LANG" value="en_US.UTF-8" />
@@ -23,7 +23,7 @@
     <property name="env.DISPLAY" value=":0" />
     <property name="env.rvm_version" value="1.27.0 (latest)" />
     <property name="user.name" value="sheldon" />
-    <property name="env._" value="/usr/bin/ant" />
+    <property name="env._" value="/home/sheldon/.rvm/gems/ruby-2.3.0/bin/learn" />
     <property name="env.USER" value="sheldon" />
     <property name="env.SHELL" value="/bin/bash" />
     <property name="env.DESKTOP_SESSION" value="cinnamon" />
@@ -82,7 +82,7 @@
     <property name="env.GEM_PATH" value="/home/sheldon/.rvm/gems/ruby-2.3.0:/home/sheldon/.rvm/gems/ruby-2.3.0@global" />
     <property name="user.home" value="/home/sheldon" />
     <property name="target" value="1.7" />
-    <property name="env.OLDPWD" value="/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU" />
+    <property name="env.OLDPWD" value="/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
     <property name="env.WINDOWID" value="54526054" />
     <property name="env.VTE_VERSION" value="3409" />
@@ -95,7 +95,7 @@
     <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
     <property name="java.class.path" value="/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/bin:/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/lib/jsoup-1.8.3.jar:/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/lib/junit-4.12.jar:/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/lib/hamcrest-core-1.3.jar:/usr/share/java/ant-launcher-1.9.3.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-junit4.jar" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.3 compiled on April 8 2014" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.IndexTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/junit/TEST-com.flatironschool.javacs.IndexTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/junitvmwatcher7953538823666992659.properties propsfile=/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/junit4400147513625864355.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.IndexTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/junit/TEST-com.flatironschool.javacs.IndexTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/junitvmwatcher5505724920596884623.properties propsfile=/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06/junit275443647372546084.properties" />
     <property name="env.XDG_SESSION_ID" value="c1" />
     <property name="env.MDM_XSERVER_LOCATION" value="local" />
     <property name="ant.file.type.JavaCS" value="file" />
@@ -114,7 +114,7 @@
     <property name="os.arch" value="amd64" />
     <property name="env.XDG_RUNTIME_DIR" value="/run/user/1000" />
     <property name="java.ext.dirs" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext" />
-    <property name="user.dir" value="/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU/javacs-lab06" />
+    <property name="user.dir" value="/home/sheldon/code/labs/cs-making-an-indexer-lab-codeU" />
     <property name="env.XAUTHORITY" value="/home/sheldon/.Xauthority" />
     <property name="env.MANDATORY_PATH" value="/usr/share/gconf/cinnamon.mandatory.path" />
     <property name="line.separator" value="&#xa;" />
@@ -133,7 +133,7 @@
     <property name="env.XDG_CONFIG_DIRS" value="/etc/xdg/xdg-cinnamon:/etc/xdg" />
     <property name="env.LESSCLOSE" value="/usr/bin/lesspipe %s %s" />
   </properties>
-  <testcase classname="com.flatironschool.javacs.IndexTest" name="testIndexPage" time="2.546" />
+  <testcase classname="com.flatironschool.javacs.IndexTest" name="testIndexPage" time="2.479" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
